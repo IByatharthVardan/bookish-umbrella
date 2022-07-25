@@ -1,0 +1,15 @@
+{
+  "name": "M10k 10q app demo",
+  "version": "0.0.1",
+  "icon_url": "icon.png",
+  "keywords":  "10k 10q app for demo",
+  "category": "food",
+  "short_description": "Extract tables",
+  "long_description": "Extract tables and classify those tables into one of the three classes [Balance, Cash, Income]",
+  "authors": ["Instabase"],
+  "beta": true,
+  "solution_type": "ibflowbin",
+  "encryption_config": {
+    "encryption_type": "v1"
+  }
+}
